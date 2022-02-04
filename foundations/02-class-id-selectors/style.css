@@ -1,0 +1,19 @@
+.odd-class {
+    background-color: rgb(233, 139, 201);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#big-blue {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.font-increase {
+    font-size: 24px;
+}
+
+#big-green {
+    background-color: rgb(106, 236, 106);
+    font-size: 24px;
+    font-weight: bold;
+}
